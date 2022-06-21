@@ -1,3 +1,4 @@
+// import Stripe from 'stripe';
 import {version} from '../../package.json';
 import Stripe from '../../node_modules/stripe/lib/stripe';
 
